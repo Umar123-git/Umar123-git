@@ -1,7 +1,7 @@
 <!-- 🖼️ Animated Banner -->
 ![Welcome Banner](https://i.imgur.com/A5R9V7H.gif)
 
-# 👋 Hi there, I'm **Umar Yar**!  
+# 👋 Hi there, I'm **Umar Shafiq**!  
 🎓 *Data Science Student at University of the Punjab*  
 💻 *Passionate about Programming, AI, and Web Development*
 
@@ -9,7 +9,7 @@
 
 ## 🧭 About Me
 
-Hello! I'm **Umar Yar**, a dedicated **BS Data Science student** at the **University of the Punjab**.  
+Hello! I'm **Umar Shafiq**, a dedicated **BS Data Science student** at the **University of the Punjab**.  
 I’m deeply interested in technology, programming, and data-driven problem solving.  
 My goal is to become a **skilled Data Scientist and Developer**, working on projects that make a real-world impact.  
 
