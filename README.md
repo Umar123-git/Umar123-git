@@ -1,15 +1,17 @@
 <!-- 🖼️ Animated Banner -->
-![Welcome Banner](https://raw.githubusercontent.com/Umar123-git/leetcode-progress/main/banner.png.png)
+![Welcome Banner](https://i.imgur.com/A5R9V7H.gif)
 
-# 👋 Hi there, I'm **Umar Shafiq**!  
+# 👋 Hi there, I'm **Umar Yar**!  
 🎓 *Data Science Student at University of the Punjab*  
-💻 *Passionate about Programming, AI, and Web Development*
+💻 *Passionate about Programming, AI, and Web Development*  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Umar123-git&color=blueviolet&style=for-the-badge)
 
 ---
 
 ## 🧭 About Me
 
-Hello! I'm **Umar Shafiq**, a dedicated **BS Data Science student** at the **University of the Punjab**.  
+Hello! I'm **Umar Yar**, a dedicated **BS Data Science student** at the **University of the Punjab**.  
 I’m deeply interested in technology, programming, and data-driven problem solving.  
 My goal is to become a **skilled Data Scientist and Developer**, working on projects that make a real-world impact.  
 
@@ -19,15 +21,24 @@ My goal is to become a **skilled Data Scientist and Developer**, working on proj
 
 ## 🛠️ Skills & Tools
 
-Here are some of the technologies and tools I work with:
+Here are the technologies and tools I’ve learned and used:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-8A2BE2?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data_Science-FFA500?style=for-the-badge)
-![Web Development](https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge&logo=html5&logoColor=white)
-![Git & GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Microcontrollers](https://img.shields.io/badge/ESP32/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-DC3E15?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
@@ -56,6 +67,9 @@ Here are some of the technologies and tools I work with:
 ![Umar Yar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar123-git&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar123-git&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Umar123-git&theme=tokyonight&hide_border=true&border_radius=15)
+
+### 📈 Contribution Activity Graph
+![Umar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umar123-git&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -92,9 +106,10 @@ Here are some of the technologies and tools I work with:
 
 ## ✨ Contact Me
 
-📧 **Email:** [umaru0977@gmail.com](mailto:umaru0977@gmail.com)  
-🔗 **LinkedIn:** [Umar Shafiq](https://www.linkedin.com/in/umar-shafiq-99035a353/)  
-💻 **GitHub:** [Umar123-git](https://github.com/Umar123-git)  
+📧 **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:umaru0977@gmail.com)  
+🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/Umar_Sharif-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-shafiq-99035a353/)  
+💻 **GitHub:** [![GitHub](https://img.shields.io/badge/Umar123--git-181717?style=flat&logo=github&logoColor=white)](https://github.com/Umar123-git)  
+📊 **Kaggle:** [![Kaggle](https://img.shields.io/badge/Umar_Sharif-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mumarshafiq)
 
 ---
 
@@ -112,7 +127,6 @@ Here are some of the technologies and tools I work with:
 
 <div align="center">
 
-### 💖 Thanks for Visiting My Profile!  
-![Profile Views](https://komarev.com/ghpvc/?username=Umar123-git&color=blueviolet&style=for-the-badge)
+### 💖 Thanks for Visiting My Profile!
 
 </div>
