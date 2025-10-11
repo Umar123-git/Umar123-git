@@ -1,5 +1,5 @@
 <!-- 🖼️ Animated Banner -->
-![Welcome Banner](https://i.imgur.com/A5R9V7H.gif)
+![Welcome Banner](https://raw.githubusercontent.com/Umar123-git/leetcode-progress/main/banner.png.png)
 
 # 👋 Hi there, I'm **Umar Shafiq**!  
 🎓 *Data Science Student at University of the Punjab*  
