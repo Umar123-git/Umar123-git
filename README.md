@@ -1,7 +1,7 @@
 <!-- 🖼️ Animated Banner -->
-![Welcome Banner](https://i.imgur.com/A5R9V7H.gif)
+![Welcome Banner](https://raw.githubusercontent.com/Umar123-git/leetcode-progress/main/banner.png.png)
 
-# 👋 Hi there, I'm **Umar Yar**!  
+# 👋 Hi there, I'm **Umar Shafiq**!  
 🎓 *Data Science Student at University of the Punjab*  
 💻 *Passionate about Programming, AI, and Web Development*  
 
@@ -11,7 +11,7 @@
 
 ## 🧭 About Me
 
-Hello! I'm **Umar Yar**, a dedicated **BS Data Science student** at the **University of the Punjab**.  
+Hello! I'm **Umar Shafiq**, a dedicated **BS Data Science student** at the **University of the Punjab**.  
 I’m deeply interested in technology, programming, and data-driven problem solving.  
 My goal is to become a **skilled Data Scientist and Developer**, working on projects that make a real-world impact.  
 
@@ -64,12 +64,22 @@ Here are the technologies and tools I’ve learned and used:
 
 <div align="center">
 
-![Umar Yar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar123-git&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)  
+![Umar Shafiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar123-git&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar123-git&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Umar123-git&theme=tokyonight&hide_border=true&border_radius=15)
 
 ### 📈 Contribution Activity Graph
 ![Umar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umar123-git&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hyxk412IG6?theme=dark&font=JetBrains%20Mono&ext=heatmap)
 
 </div>
 
@@ -107,9 +117,11 @@ Here are the technologies and tools I’ve learned and used:
 ## ✨ Contact Me
 
 📧 **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:umaru0977@gmail.com)  
-🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/Umar_Sharif-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-shafiq-99035a353/)  
+🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/Umar_Shafiq-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-shafiq-99035a353/)  
 💻 **GitHub:** [![GitHub](https://img.shields.io/badge/Umar123--git-181717?style=flat&logo=github&logoColor=white)](https://github.com/Umar123-git)  
-📊 **Kaggle:** [![Kaggle](https://img.shields.io/badge/Umar_Sharif-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mumarshafiq)
+📊 **Kaggle:** [![Kaggle](https://img.shields.io/badge/Umar_Shafiq-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mumarshafiq)  
+🧠 **LeetCode:** [![LeetCode](https://img.shields.io/badge/LeetCode-Umar_Shafiq-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/hyxk412IG6/)  
+🤗 **Hugging Face:** [![HuggingFace](https://img.shields.io/badge/HuggingFace-Umar_Shafiq-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/Umar0977)
 
 ---
 
@@ -118,10 +130,11 @@ Here are the technologies and tools I’ve learned and used:
 2. [Skills & Tools](#️-skills--tools)  
 3. [My GitHub Repositories](#-my-github-repositories)  
 4. [GitHub Stats](#-github-stats--activity)  
-5. [Goals](#-goals-checklist)  
-6. [Motto](#-motto)  
-7. [Projects Table](#-my-projects--experience)  
-8. [Contact Me](#-contact-me)
+5. [LeetCode Stats](#-leetcode-stats)  
+6. [Goals](#-goals-checklist)  
+7. [Motto](#-motto)  
+8. [Projects Table](#-my-projects--experience)  
+9. [Contact Me](#-contact-me)
 
 ---
 
