@@ -1,57 +1,63 @@
-<!-- 🖼️ Optional Banner or GIF -->
-![Banner](https://i.imgur.com/A5R9V7H.gif)
+<!-- 🖼️ Animated Banner -->
+![Welcome Banner](https://i.imgur.com/A5R9V7H.gif)
 
-# 👋 Hi, I'm Umar Shafiq!
+# 👋 Hi there, I'm **Umar Yar**!  
+🎓 *Data Science Student at University of the Punjab*  
+💻 *Passionate about Programming, AI, and Web Development*
 
 ---
 
 ## 🧭 About Me
 
-**Full Name:** Muhammad Umar Shafiq  
-**University:** University of the Punjab – Department of Data Science  
+Hello! I'm **Umar Yar**, a dedicated **BS Data Science student** at the **University of the Punjab**.  
+I’m deeply interested in technology, programming, and data-driven problem solving.  
+My goal is to become a **skilled Data Scientist and Developer**, working on projects that make a real-world impact.  
 
-I’m a passionate **Data Science student** who loves exploring how data and technology shape the modern world.  
-My interests include programming, AI, and web development. My goal is to become a **professional Data Scientist and developer** who contributes to real-world projects and innovations.
-
-> “Code. Learn. Improve. Repeat.”
+> 💡 *"Code. Learn. Improve. Repeat."*
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-- 💻 C++ Programming  
-- 🐍 Python Programming  
-- 🧠 Data Science  
-- 🌐 Web Development  
-- ⚙️ Git & GitHub  
-- 🤖 Microcontroller Projects (ESP32, Arduino Uno, etc.)  
-- 📊 Data Visualization  
+Here are some of the technologies and tools I work with:
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-FFA500?style=for-the-badge)
+![Web Development](https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge&logo=html5&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/ESP32/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge)
 
 ---
 
 ## 📂 My GitHub Repositories
 
-> Here are some of my recent projects and practice work:
+> Some of my highlighted repositories and projects:
 
-- [**Burger-Shop-Website**](https://github.com/Umar123-git/Burger-Shop-Website)  
+- 🍔 [**Burger-Shop-Website**](https://github.com/Umar123-git/Burger-Shop-Website)  
   *A responsive burger shop website created using HTML, CSS, and JavaScript.*
 
-- [**LeetCode-Progress**](https://github.com/Umar123-git/LeetCode-Progress)  
-  *A collection of my solved coding problems on LeetCode in C++ and Python.*
+- 💻 [**LeetCode-Progress**](https://github.com/Umar123-git/LeetCode-Progress)  
+  *A collection of solved LeetCode problems in C++ and Python.*
 
-- [**LeetCode-Solutions**](https://github.com/Umar123-git/LeetCode-Solutions)  
-  *A repository containing optimized solutions to LeetCode problems.*
+- 🧩 [**LeetCode-Solutions**](https://github.com/Umar123-git/LeetCode-Solutions)  
+  *Optimized and structured coding solutions for LeetCode problems.*
 
-- [**My-First-Repo**](https://github.com/Umar123-git/My-First-Repo)  
+- 🚀 [**My-First-Repo**](https://github.com/Umar123-git/My-First-Repo)  
   *My very first GitHub repository where I started learning version control.*
 
 ---
 
-## 📊 Stats & GitHub Activity
+## 📊 GitHub Stats & Activity
 
-![Umar Yar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umar123-git&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar123-git&layout=compact&theme=radical)
+![Umar Yar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar123-git&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar123-git&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Umar123-git&theme=tokyonight&hide_border=true&border_radius=15)
+
+</div>
 
 ---
 
@@ -62,25 +68,25 @@ My interests include programming, AI, and web development. My goal is to become 
 - [x] Create and maintain GitHub projects  
 - [ ] Master Data Science and Machine Learning  
 - [ ] Contribute to open-source projects  
-- [ ] Get an internship in tech industry  
+- [ ] Get an internship in the tech industry  
 
 ---
 
 ## 💬 Motto
 
-> *“Never stop learning, because technology never stops evolving.”*
+> 🌱 *“Never stop learning, because technology never stops evolving.”*
 
 ---
 
-## 🧱 My Projects / Experience Table
+## 🧱 My Projects & Experience
 
-| Project Name | Description | Technologies Used |
-|---------------|-------------|-------------------|
-| Burger Shop Website | A responsive website for a fast-food business | HTML, CSS, JS |
-| LeetCode Progress | Solved 140+ coding problems | C++, Python, Algorithms |
-| LeetCode Solutions | Repository for structured and optimized LeetCode solutions | C++, Data Structures |
-| Microcontroller Projects | ESP32 & Arduino-based embedded projects | C++, Arduino IDE |
-| Portfolio Website | My personal webpage | HTML, CSS, JS |
+| 🏗️ Project Name | 📖 Description | 🧰 Technologies Used |
+|------------------|----------------|----------------------|
+| 🍔 Burger Shop Website | A responsive website for a fast-food business | HTML, CSS, JavaScript |
+| 💡 LeetCode Progress | Solved 140+ coding problems | C++, Python, Algorithms |
+| 🧩 LeetCode Solutions | Repository for structured and optimized LeetCode solutions | C++, Data Structures |
+| 🤖 Microcontroller Projects | ESP32 & Arduino-based embedded projects | C++, Arduino IDE |
+| 🌐 Portfolio Website | My personal webpage | HTML, CSS, JavaScript |
 
 ---
 
@@ -93,11 +99,20 @@ My interests include programming, AI, and web development. My goal is to become 
 ---
 
 ## 🧭 Table of Contents
-1. [About Me](#-about-me)
-2. [Skills](#-skills)
-3. [My GitHub Repositories](#-my-github-repositories)
-4. [Stats & Activity](#-stats--github-activity)
-5. [Goals](#-goals-checklist)
-6. [Motto](#-motto)
-7. [Projects Table](#-my-projects--experience-table)
+1. [About Me](#-about-me)  
+2. [Skills & Tools](#️-skills--tools)  
+3. [My GitHub Repositories](#-my-github-repositories)  
+4. [GitHub Stats](#-github-stats--activity)  
+5. [Goals](#-goals-checklist)  
+6. [Motto](#-motto)  
+7. [Projects Table](#-my-projects--experience)  
 8. [Contact Me](#-contact-me)
+
+---
+
+<div align="center">
+
+### 💖 Thanks for Visiting My Profile!  
+![Profile Views](https://komarev.com/ghpvc/?username=Umar123-git&color=blueviolet&style=for-the-badge)
+
+</div>
