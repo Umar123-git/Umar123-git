@@ -46,6 +46,9 @@ Here are the technologies and tools I’ve learned and used:
 
 > Some of my highlighted repositories and projects:
 
+- 📘 [**PU-BSDS-Study-Material**](https://github.com/Umar123-git/PU-BSDS-Study-Material)  
+  *A structured collection of my university study material, labs, notes, and resources from the BS Data Science program at Punjab University.*
+
 - 🍔 [**Burger-Shop-Website**](https://github.com/Umar123-git/Burger-Shop-Website)  
   *A responsive burger shop website created using HTML, CSS, and JavaScript.*
 
@@ -73,7 +76,6 @@ Here are the technologies and tools I’ve learned and used:
 
 </div>
 
-
 ---
 
 ## 🧩 LeetCode Stats
@@ -91,6 +93,7 @@ Here are the technologies and tools I’ve learned and used:
 - [x] Learn C++ and OOP  
 - [x] Learn Python and Microcontroller Programming  
 - [x] Create and maintain GitHub projects  
+- [x] Upload and organize university study materials  
 - [ ] Master Data Science and Machine Learning  
 - [ ] Contribute to open-source projects  
 - [ ] Get an internship in the tech industry  
@@ -107,6 +110,7 @@ Here are the technologies and tools I’ve learned and used:
 
 | 🏗️ Project Name | 📖 Description | 🧰 Technologies Used |
 |------------------|----------------|----------------------|
+| 📘 PU BSDS Study Material | Organized study material, labs, and notes for Data Science at PU | Markdown, Git, File Structuring |
 | 🍔 Burger Shop Website | A responsive website for a fast-food business | HTML, CSS, JavaScript |
 | 💡 LeetCode Progress | Solved 140+ coding problems | C++, Python, Algorithms |
 | 🧩 LeetCode Solutions | Repository for structured and optimized LeetCode solutions | C++, Data Structures |
