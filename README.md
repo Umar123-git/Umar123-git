@@ -69,7 +69,7 @@ Here are the technologies and tools I’ve learned and used:
 
 ![Umar Shafiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar123-git&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar123-git&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=15)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Umar123-git&theme=tokyonight&hide_border=true&border_radius=15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar123-git&show_icons=true&theme=tokyonight)
 
 ### 📈 Contribution Activity Graph
 ![Umar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umar123-git&theme=tokyo-night&hide_border=true&area=true)
