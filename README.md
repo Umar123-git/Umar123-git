@@ -46,6 +46,9 @@ Here are the technologies and tools I’ve learned and used:
 
 > Some of my highlighted repositories and projects:
 
+- 🏥 [**Medical-Insurance-Project**](https://github.com/Umar123-git/Medical-Insurance-Project)  
+  *A machine learning project that predicts medical insurance costs using data analysis, preprocessing, visualization, and ML models such as Linear Regression, Random Forest, and more.*
+
 - 📘 [**PU-BSDS-Study-Material**](https://github.com/Umar123-git/PU-BSDS-Study-Material)  
   *A structured collection of my university study material, labs, notes, and resources from the BS Data Science program at Punjab University.*
 
@@ -111,6 +114,7 @@ Here are the technologies and tools I’ve learned and used:
 
 | 🏗️ Project Name | 📖 Description | 🧰 Technologies Used |
 |------------------|----------------|----------------------|
+| 🏥 Medical Insurance Cost Prediction | Machine learning project predicting insurance costs using Kaggle dataset | Python, Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit |
 | 📘 PU BSDS Study Material | Organized study material, labs, and notes for Data Science at PU | Markdown, Git, File Structuring |
 | 🍔 Burger Shop Website | A responsive website for a fast-food business | HTML, CSS, JavaScript |
 | 💡 LeetCode Progress | Solved 140+ coding problems | C++, Python, Algorithms |
