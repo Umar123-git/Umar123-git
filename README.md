@@ -46,6 +46,12 @@ Here are the technologies and tools I’ve learned and used:
 
 > Some of my highlighted repositories and projects:
 
+- 🧠 [**Premium-RAG-Chatbot**](https://github.com/Umar123-git/Premium-RAG-Chatbot.git)  
+  *An advanced Retrieval-Augmented Generation (RAG) chatbot using LangChain, FAISS, Sentence Transformers, and Groq LLMs. Supports multi-document upload, summaries, conversational memory, and source references. Deployed on Hugging Face Spaces.*
+
+- 🤖 [**DataMentor-AI-Chatbot**](https://github.com/Umar123-git/DataMentor-AI-Chatbot.git)  
+  *An AI-powered mentor chatbot designed to guide users in data science concepts, learning paths, and intelligent Q&A. Built with modern LLM integration and deployed on Hugging Face.*
+
 - 🏥 [**Medical-Insurance-Project**](https://github.com/Umar123-git/Medical-Insurance-Project)  
   *A machine learning project that predicts medical insurance costs using data analysis, preprocessing, visualization, and ML models such as Linear Regression, Random Forest, and more.*
 
@@ -96,7 +102,9 @@ Here are the technologies and tools I’ve learned and used:
 
 - [x] Learn C++ and OOP  
 - [x] Learn Python and Microcontroller Programming  
-- [x] Create and maintain GitHub projects  
+- [x] Create and maintain GitHub projects
+- [x] Build and deploy AI chatbots using LLMs  
+- [x] Implement Retrieval-Augmented Generation (RAG) systems  
 - [x] Upload and organize university study materials  
 - [ ] Master Data Science and Machine Learning  
 - [ ] Contribute to open-source projects  
@@ -114,6 +122,8 @@ Here are the technologies and tools I’ve learned and used:
 
 | 🏗️ Project Name | 📖 Description | 🧰 Technologies Used |
 |------------------|----------------|----------------------|
+| 🧠 Premium RAG Chatbot | Advanced multi-document RAG chatbot with semantic search, summaries, and source references | Python, LangChain, FAISS, Sentence Transformers, Groq LLM, Gradio |
+| 🤖 DataMentor AI Chatbot | AI-powered mentor chatbot for data science guidance and intelligent Q&A | Python, LLMs, Hugging Face, Gradio |
 | 🏥 Medical Insurance Cost Prediction | Machine learning project predicting insurance costs using Kaggle dataset | Python, Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit |
 | 📘 PU BSDS Study Material | Organized study material, labs, and notes for Data Science at PU | Markdown, Git, File Structuring |
 | 🍔 Burger Shop Website | A responsive website for a fast-food business | HTML, CSS, JavaScript |
